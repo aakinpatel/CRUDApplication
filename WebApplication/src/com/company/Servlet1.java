@@ -23,6 +23,7 @@ public class Servlet1 extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
+	//I made changes
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
